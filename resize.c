@@ -58,8 +58,6 @@ int main(int argc, char *argv[])
         return 5;
     }
 
-    // update header
-
     // determine new dimensions
     int oldWidth = bi.biWidth;
     int oldHeight = bi.biHeight;
